@@ -1,4 +1,4 @@
-# HelloWord
+# HelloWorld
 Just for start
 
 Hi, everyone
